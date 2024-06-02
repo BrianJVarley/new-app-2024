@@ -3,15 +3,16 @@ import { DarkTheme, DefaultTheme } from '@react-navigation/native';
 import type { ThemeConfiguration } from '@/types/theme/config';
 
 const colorsLight = {
-	red500: '#C13333',
-	gray800: '#303030',
-	gray400: '#4D4D4D',
-	gray200: '#A1A1A1',
-	gray100: '#DFDFDF',
-	gray50: '#EFEFEF',
-	purple500: '#44427D',
-	purple100: '#E1E1EF',
-	purple50: '#1B1A23',
+  red500: "#C13333",
+  gray800: "#303030",
+  gray400: "#4D4D4D",
+  gray200: "#A1A1A1",
+  gray100: "#DFDFDF",
+  gray50: "#EFEFEF",
+  purple500: "#44427D",
+  purple100: "#E1E1EF",
+  purple50: "#1B1A23",
+  green100: "#0df2c9",
 } as const;
 
 const colorsDark = {

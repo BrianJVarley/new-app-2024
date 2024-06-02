@@ -80,7 +80,7 @@ function Main() {
 					]}
 				>
 					<View
-						style={[layout.relative, backgrounds.gray100, components.circle250]}
+						style={[layout.relative, backgrounds.green100, components.circle250]}
 					/>
 
 					<View style={[layout.absolute, gutters.paddingTop_80]}>
