@@ -8,7 +8,7 @@ import i18n from '@/translations';
 
 import Main from './Main';
 
-describe('Example screen should render correctly', () => {
+describe('Main screen should render correctly', () => {
 	let storage: MMKV;
 	const queryClient = new QueryClient({
 		defaultOptions: {
